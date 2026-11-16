@@ -1,5 +1,4 @@
-# paideia_scraper_v0_45.py
-
+# scrapper-paideia
 Script en Python que hace un **respaldo local de cursos de Paideia PUCP** (Moodle): descarga el material, guarda foros, tareas y páginas como HTML y arma un índice navegable sin conexión. Versión **0.45**.
 
 ## Instalación
